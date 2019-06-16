@@ -64,8 +64,8 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
-5.  **`.eslint.js**: ESLint is an open source JavaScript linting utility that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines.
-6.  **`.tsconfig.json**: The file that indicates the directory is the root of a TypeScript project and  specifies the root files and the compiler options required to compile the project
+5.  **`.eslint.js`**: ESLint is an open source JavaScript linting utility that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines.
+6.  **`.tsconfig.json`**: The file that indicates the directory is the root of a TypeScript project and  specifies the root files and the compiler options required to compile the project
 7.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
 8.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
 9.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
@@ -85,6 +85,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RobertoMSousa/gatsby-typescript-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
